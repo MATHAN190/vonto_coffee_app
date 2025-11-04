@@ -1,6 +1,6 @@
 # ☕ Vonto – Coffee Order App
 
-> A beautifully designed Flutter coffee ordering application built with **Clean Architecture**, **Firebase backend**, and **smooth UI animations**.  
+> A beautifully designed Flutter coffee ordering application built with **Clean Architecture**, ** Full stack**, and **smooth UI animations**.  
 > Developed with love ❤️ and powered by **Madhan**.
 
 ---
